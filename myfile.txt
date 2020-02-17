@@ -1,2 +1,2 @@
-This is my first line for git is github
-I am  selfish person.
+This is my first line for git is git
+shivam is a selfish person.
